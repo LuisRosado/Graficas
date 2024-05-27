@@ -8,7 +8,7 @@ Para la segunda parte, se utilizo la misma biblioteca matplotlib para cargar dat
 ![polinomio1](https://github.com/LuisRosado/Graficas/assets/140114139/37cabf43-ef41-4acb-a77e-9d4e6497145c)
 
 
-Resultados
+# Resultados
 
 Los resultados obtenidos muestran las graficas del polinomio de quinto grado, ası como de sus dos derivadas, y un grafico de dispersion del ataque contra la defensa para los primeros 30 Pokemon. Estas visualizaciones proporcionan una comprension clara de como varıan las funciones y los datos en los intervalos dados.
 
